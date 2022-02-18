@@ -1,0 +1,30 @@
+body{
+    margin: 5em;
+
+}
+
+
+section {
+    border: 5px transparent rgb(0, 0, 0);
+    background-color: rgb(84, 97, 214);
+    border-radius: 10%;
+    margin: 5em;
+    padding: 1em;
+    text-align:center;
+    clear: both;
+    width: 25%;
+}
+
+.person{
+    float:left;
+    align: center;
+    width: 100px;
+}
+
+.todo{
+    flex-direction: column;
+    width: 20%;
+}
+section + section {
+    margin
+}
